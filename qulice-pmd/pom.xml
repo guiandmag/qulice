@@ -117,7 +117,7 @@
                             <excludes combine.children="append">
                                 <exclude>checkstyle:/src/test/resources/.*</exclude>
                                 <exclude>pmd:.*/src/test/resources/.*</exclude>
-                                <exclude>xml:/src/main/resources/com/qulice/pmd/ruleset.xml</exclude>
+                                <exclude>xml:.*</exclude>
                             </excludes>
                         </configuration>
                     </plugin>
