@@ -182,7 +182,7 @@
                             <excludes combine.children="append">
                                 <exclude>checkstyle:/src/it/.*</exclude>
                                 <exclude>pmd:.*/src/it/.*</exclude>
-                                <exclude>xml:.*</exclude>
+                                <exclude>xml:/src/it/.*</exclude>
                                 <exclude>duplicatefinder:.*</exclude>
                             </excludes>
                         </configuration>
